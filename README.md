@@ -6,3 +6,13 @@ This code streamlines the production of an MGRS ArcGIS Pro map and (optional) la
 - (Optional) Create a layout of the map ready for export with proper grid markings and relevant cartography elements.
 
 This tool was created using arcpy 3.x and only works in ArcGIS Pro. It was deleveloped entirely by me and has not been made compatible to download for other users. There is no promise that this is the best or most efficient code to perform the desired output. This code was desinged as a project to develop my coding abilities using arcpy and showcase my skills.
+
+
+
+https://github.com/user-attachments/assets/47ac6076-aef1-466f-adc9-7813d16f24f3
+
+
+Printed Layout - [tucson_az.pdf](https://github.com/user-attachments/files/19951800/tucson_az.pdf)
+
+
+![map_screenshot](https://github.com/user-attachments/assets/35fd3713-2985-4cff-ab18-9dcd49114604)
